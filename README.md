@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24372038/README.md)
 # ExtensionArchitect AI
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 > **A professional AI-powered coding suite specialized in generating production-ready browser extensions for Chrome, Firefox, and Safari with real-time debugging chat and file tree visualization.**
 
@@ -105,7 +105,7 @@ MIT
 ---
 
 > **Screenshots**
-> ![Main App UI](./screenshot.png)
+> ![Main App UI](./Screenshot.png)
 
 ---
 

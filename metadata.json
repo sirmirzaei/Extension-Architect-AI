@@ -1,0 +1,5 @@
+{
+  "name": "ExtensionArchitect AI",
+  "description": "A professional AI-powered coding suite specialized in generating production-ready browser extensions for Chrome, Firefox, and Safari with real-time debugging chat and file tree visualization.",
+  "requestFramePermissions": []
+}
